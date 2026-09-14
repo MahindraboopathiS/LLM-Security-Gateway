@@ -69,4 +69,4 @@ Once you open `http://localhost:5173`, paste these prompts to see the gateway in
 ---
 
 
-Developed by Ruhi.
+Developed by MahindraboopathiS
